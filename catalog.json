@@ -1,0 +1,2909 @@
+{
+ "version": "2026-11-18-1",
+ "sheet": {
+  "columns": 2,
+  "rows": 15,
+  "cellWidth": 360,
+  "cellHeight": 120,
+  "note": "cada celda es inicio y final del movimiento lado a lado; celda n: columna n%2, fila n//2"
+ },
+ "exercises": [
+  {
+   "name": "Press de banca",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Barra agarre ancho",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Mancuernas agarre neutro",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Mancuerna a un brazo",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Inclinado con barra",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Inclinado con mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Inclinado con mancuernas agarre neutro",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Declinado con barra",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Declinado con mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Inclinado en Smith",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Declinado en Smith",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Polea de pie",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Polea en banco",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Polea inclinado",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "En el piso con barra",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "En el piso con mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 17
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press Hammer (empuje de pecho)",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Agarre lateral",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Agarre de arriba",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "A un brazo",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Inclinado",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Declinado",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Sentado con placas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 21
+     }
+    }
+   ]
+  },
+  {
+   "name": "Aperturas",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Inclinado con mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Declinado con mancuernas",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Polea inclinado",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 26
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "A un brazo con mancuerna",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 28
+     }
+    }
+   ]
+  },
+  {
+   "name": "Mariposa pec deck",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Continuo",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "A 45 grados",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Estándar",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "A un brazo",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Inversa para hombro posterior",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 29
+     }
+    }
+   ]
+  },
+  {
+   "name": "Cruce de poleas",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Polea alta",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Polea media"
+    },
+    {
+     "name": "Polea baja",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "A un brazo",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 2
+     }
+    }
+   ]
+  },
+  {
+   "name": "Flexiones de brazos",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Clásicas",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Abiertas",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Inclinadas",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Declinadas",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Diamante",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Con lastre"
+    },
+    {
+     "name": "A un brazo",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "En suspensión",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 9
+     }
+    }
+   ]
+  },
+  {
+   "name": "Pullover",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Mancuerna",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Mancuerna brazos flexionados",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Polea con barra",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Polea con soga",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 14
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press Svend",
+   "group": "Pecho",
+   "variants": [
+    {
+     "name": "Disco",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 15
+     }
+    }
+   ]
+  },
+  {
+   "name": "Dominadas",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Agarre prono",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "Agarre supino",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Agarre neutro",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Con lastre",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Asistidas",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Asistidas agarre supino",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Agarre mixto",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 21
+     }
+    }
+   ]
+  },
+  {
+   "name": "Jalón al pecho",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Agarre ancho",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Agarre cerrado",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Agarre neutro",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Agarre supino",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "A un brazo",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 26
+     }
+    },
+    {
+     "name": "Tras nuca",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 27
+     }
+    }
+   ]
+  },
+  {
+   "name": "Remo",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Barra agarre supino",
+     "img": {
+      "sheet": "img/s1.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Mancuerna a un brazo",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Dos mancuernas",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Mancuernas en banco inclinado",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Polea baja",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea a un brazo",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Polea agarre cerrado (triángulo)",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea agarre ancho",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea agarre neutro",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea agarre supino",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea agarre prono",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea con soga",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea alta de rodillas",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Polea alta a un brazo",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Máquina alta",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Máquina a un brazo",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Máquina agarre de arriba",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Máquina agarre al medio",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Máquina agarre de abajo",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Barra T",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Barra T acostado",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Barra T en esquina",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Invertido",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "En suspensión",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Renegado",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 16
+     }
+    }
+   ]
+  },
+  {
+   "name": "Hiperextensiones",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Sin peso",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Con disco"
+    },
+    {
+     "name": "Inversas",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 18
+     }
+    }
+   ]
+  },
+  {
+   "name": "Encogimiento de hombros",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Barra por detrás",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 24
+     }
+    }
+   ]
+  },
+  {
+   "name": "Peso muerto parcial",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Desde el rack",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 25
+     }
+    }
+   ]
+  },
+  {
+   "name": "Muscle up",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 26
+     }
+    }
+   ]
+  },
+  {
+   "name": "Subida a la soga",
+   "group": "Espalda",
+   "variants": [
+    {
+     "name": "Estándar",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 27
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press militar",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s2.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Máquina de palanca",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "De pie con barra",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "De pie con mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Mancuerna a un brazo",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Tras nuca",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Con impulso",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 9
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press Arnold",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 11
+     }
+    }
+   ]
+  },
+  {
+   "name": "Vuelos laterales",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Sentado con mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Máquina"
+    },
+    {
+     "name": "A un brazo en polea"
+    },
+    {
+     "name": "A un brazo con mancuerna",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Inclinado a un brazo",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "Banda",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 17
+     }
+    }
+   ]
+  },
+  {
+   "name": "Vuelos frontales",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Dos mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Disco",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Inclinado con mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 23
+     }
+    }
+   ]
+  },
+  {
+   "name": "Vuelos posteriores",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Mancuernas en banco inclinado",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s0.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 26
+     }
+    },
+    {
+     "name": "Acostado",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 27
+     }
+    }
+   ]
+  },
+  {
+   "name": "Face pull",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Soga",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 28
+     }
+    }
+   ]
+  },
+  {
+   "name": "Remo al mentón",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s3.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 2
+     }
+    }
+   ]
+  },
+  {
+   "name": "Remo para deltoides posterior",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Polea con soga",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 4
+     }
+    }
+   ]
+  },
+  {
+   "name": "Rotación externa",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Mancuerna",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Banda",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 7
+     }
+    }
+   ]
+  },
+  {
+   "name": "Rotación interna",
+   "group": "Hombros",
+   "variants": [
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Banda",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 9
+     }
+    }
+   ]
+  },
+  {
+   "name": "Curl de bíceps",
+   "group": "Bíceps",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Barra agarre ancho",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Barra agarre cerrado",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Mancuernas alternado",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Sentado con mancuernas",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Martillo",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "Martillo alternado",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Martillo cruzado",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Martillo en polea con soga",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Polea con soga",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Inclinado a un brazo",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "A un brazo en polea",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Polea alta",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Banco Scott",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Banco Scott con mancuerna",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Banco Scott en máquina",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 26
+     }
+    },
+    {
+     "name": "Banco Scott en polea",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Barra W",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Barra romana"
+    },
+    {
+     "name": "Martillo en banco inclinado",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Martillo en banco Scott",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Inclinado alternado",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Inclinado con mancuernas",
+     "img": {
+      "sheet": "img/s4.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Concentrado",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Araña",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Arrastre",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Zottman",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 6
+     }
+    }
+   ]
+  },
+  {
+   "name": "Extensión de tríceps",
+   "group": "Tríceps",
+   "variants": [
+    {
+     "name": "Polea con soga",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Polea con barra",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Polea con barra V",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Francés",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Francés con mancuernas",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Francés con mancuerna a un brazo",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Francés a un brazo agarre prono",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Francés con barra recta",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Francés con barra romana"
+    },
+    {
+     "name": "Sobre la cabeza",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Sobre la cabeza a un brazo",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "Sobre la cabeza sentado con mancuerna",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Sobre la cabeza sentado a un brazo",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "Sobre la cabeza con disco"
+    },
+    {
+     "name": "Sobre la cabeza sentado con disco"
+    },
+    {
+     "name": "Sobre la cabeza con soga",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Sobre la cabeza con barra",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "A un brazo en polea",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Agarre inverso",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 22
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press cerrado",
+   "group": "Tríceps",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Barra W",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 26
+     }
+    },
+    {
+     "name": "Mancuerna a un brazo"
+    }
+   ]
+  },
+  {
+   "name": "Patada de tríceps",
+   "group": "Tríceps",
+   "variants": [
+    {
+     "name": "Mancuerna",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Polea"
+    }
+   ]
+  },
+  {
+   "name": "Fondos",
+   "group": "Tríceps",
+   "variants": [
+    {
+     "name": "Paralelas",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Paralelas para pecho",
+     "img": {
+      "sheet": "img/s5.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Banco",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Banco con lastre",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Con lastre"
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Anillas",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 3
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press Tate",
+   "group": "Tríceps",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 4
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press JM",
+   "group": "Tríceps",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 5
+     }
+    }
+   ]
+  },
+  {
+   "name": "Curl de muñeca",
+   "group": "Antebrazos",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Inverso",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Inverso con mancuernas",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Por detrás con barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 11
+     }
+    }
+   ]
+  },
+  {
+   "name": "Curl inverso",
+   "group": "Antebrazos",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Barra W"
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Banco Scott",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 15
+     }
+    }
+   ]
+  },
+  {
+   "name": "Paseo del granjero",
+   "group": "Antebrazos",
+   "variants": [
+    {
+     "name": "Mancuernas"
+    }
+   ]
+  },
+  {
+   "name": "Rodillo de muñeca",
+   "group": "Antebrazos",
+   "variants": [
+    {
+     "name": "Estándar",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 16
+     }
+    }
+   ]
+  },
+  {
+   "name": "Pinza con discos",
+   "group": "Antebrazos",
+   "variants": [
+    {
+     "name": "Estándar",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 17
+     }
+    }
+   ]
+  },
+  {
+   "name": "Sentadilla",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Goblet",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Búlgara",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "Búlgara con barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Frontal",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Hack",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Hack con barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Sumo",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 26
+     }
+    },
+    {
+     "name": "Sumo con barra",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Péndulo"
+    },
+    {
+     "name": "Sin peso",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s6.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Al cajón",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "Sobre la cabeza",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Zercher",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Sissy",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Pistol",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Máquina acostado",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 5
+     }
+    }
+   ]
+  },
+  {
+   "name": "Prensa",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "45 grados",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Horizontal"
+    },
+    {
+     "name": "A una pierna"
+    },
+    {
+     "name": "Pies juntos",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 8
+     }
+    }
+   ]
+  },
+  {
+   "name": "Peso muerto",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Convencional",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Rumano",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Sumo",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Piernas rígidas",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "Barra hexagonal",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Desde déficit",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "A una pierna con pesa rusa",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 19
+     }
+    }
+   ]
+  },
+  {
+   "name": "Estocadas",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "Caminando",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Caminando sin peso",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Hacia atrás",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Con salto",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 26
+     }
+    }
+   ]
+  },
+  {
+   "name": "Extensión de cuádriceps",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "A una pierna",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 28
+     }
+    }
+   ]
+  },
+  {
+   "name": "Curl femoral",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Acostado",
+     "img": {
+      "sheet": "img/s7.webp",
+      "cell": 29
+     }
+    },
+    {
+     "name": "Sentado",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 0
+     }
+    },
+    {
+     "name": "De pie",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "A una pierna"
+    },
+    {
+     "name": "Con pelota",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Nórdico",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Banco GHD",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 4
+     }
+    }
+   ]
+  },
+  {
+   "name": "Gemelos",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "De pie",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Sentado",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "En prensa",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "A una pierna"
+    },
+    {
+     "name": "Smith",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "De pie con barra",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "De pie con mancuernas",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "Sentado con barra",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Burro",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Máquina de prensa",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 13
+     }
+    }
+   ]
+  },
+  {
+   "name": "Aductores",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Banda",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 16
+     }
+    }
+   ]
+  },
+  {
+   "name": "Abductores",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Polea"
+    },
+    {
+     "name": "Banda",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 18
+     }
+    }
+   ]
+  },
+  {
+   "name": "Subida al cajón",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 19
+     }
+    },
+    {
+     "name": "Sin peso"
+    },
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 20
+     }
+    }
+   ]
+  },
+  {
+   "name": "Buenos días",
+   "group": "Piernas",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 21
+     }
+    },
+    {
+     "name": "Smith"
+    },
+    {
+     "name": "Sentado",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Banda",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 23
+     }
+    }
+   ]
+  },
+  {
+   "name": "Hip thrust",
+   "group": "Glúteos",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 24
+     }
+    },
+    {
+     "name": "Máquina"
+    },
+    {
+     "name": "A una pierna"
+    },
+    {
+     "name": "Smith"
+    },
+    {
+     "name": "Mancuerna"
+    }
+   ]
+  },
+  {
+   "name": "Patada de glúteo",
+   "group": "Glúteos",
+   "variants": [
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "Máquina"
+    },
+    {
+     "name": "Tobillera"
+    },
+    {
+     "name": "Sin peso",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 26
+     }
+    }
+   ]
+  },
+  {
+   "name": "Puente de glúteos",
+   "group": "Glúteos",
+   "variants": [
+    {
+     "name": "Sin peso",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Mancuerna"
+    },
+    {
+     "name": "A una pierna",
+     "img": {
+      "sheet": "img/s8.webp",
+      "cell": 29
+     }
+    }
+   ]
+  },
+  {
+   "name": "Pull through",
+   "group": "Glúteos",
+   "variants": [
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 0
+     }
+    }
+   ]
+  },
+  {
+   "name": "Abdominales",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Crunch",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 1
+     }
+    },
+    {
+     "name": "Elevación de piernas",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 2
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Máquina",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Declinado",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Bicicleta",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 6
+     }
+    },
+    {
+     "name": "Completos",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 7
+     }
+    },
+    {
+     "name": "Inverso",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "Cruzado",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Con peso",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 10
+     }
+    },
+    {
+     "name": "En pelota",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 11
+     }
+    },
+    {
+     "name": "Oblicuos",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 12
+     }
+    },
+    {
+     "name": "Navaja",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 13
+     }
+    },
+    {
+     "name": "De pie en polea con soga",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 14
+     }
+    }
+   ]
+  },
+  {
+   "name": "Plancha",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Estándar",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Lateral",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 16
+     }
+    },
+    {
+     "name": "Con lastre"
+    }
+   ]
+  },
+  {
+   "name": "Elevación de piernas colgado",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Piernas rectas",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 17
+     }
+    },
+    {
+     "name": "Rodillas flexionadas"
+    },
+    {
+     "name": "En paralelas",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 18
+     }
+    },
+    {
+     "name": "En L",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 19
+     }
+    }
+   ]
+  },
+  {
+   "name": "Rueda abdominal",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "De rodillas",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 20
+     }
+    },
+    {
+     "name": "De pie"
+    },
+    {
+     "name": "Con barra",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 21
+     }
+    }
+   ]
+  },
+  {
+   "name": "Giros rusos",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Sin peso",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 22
+     }
+    },
+    {
+     "name": "Con disco",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 23
+     }
+    },
+    {
+     "name": "Con mancuerna"
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 24
+     }
+    }
+   ]
+  },
+  {
+   "name": "Leñador en polea",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "De arriba hacia abajo",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 25
+     }
+    },
+    {
+     "name": "De abajo hacia arriba",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 26
+     }
+    }
+   ]
+  },
+  {
+   "name": "Inclinación lateral",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Mancuerna",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 27
+     }
+    },
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 28
+     }
+    },
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s9.webp",
+      "cell": 29
+     }
+    }
+   ]
+  },
+  {
+   "name": "Press Pallof",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Polea",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 0
+     }
+    }
+   ]
+  },
+  {
+   "name": "Bicho muerto",
+   "group": "Abdomen",
+   "variants": [
+    {
+     "name": "Sin peso",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 1
+     }
+    }
+   ]
+  },
+  {
+   "name": "Swing con pesa rusa",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "A dos manos"
+    },
+    {
+     "name": "A una mano",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 2
+     }
+    }
+   ]
+  },
+  {
+   "name": "Cargada",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 3
+     }
+    },
+    {
+     "name": "Mancuernas",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 4
+     }
+    },
+    {
+     "name": "Colgado",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 5
+     }
+    },
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 6
+     }
+    }
+   ]
+  },
+  {
+   "name": "Cargada y envión",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 7
+     }
+    }
+   ]
+  },
+  {
+   "name": "Arranque",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Barra",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 8
+     }
+    },
+    {
+     "name": "De potencia",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 9
+     }
+    },
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 10
+     }
+    }
+   ]
+  },
+  {
+   "name": "Levantada turca",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 11
+     }
+    }
+   ]
+  },
+  {
+   "name": "Thruster",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Pesa rusa",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 12
+     }
+    }
+   ]
+  },
+  {
+   "name": "Cuerdas de batalla",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Estándar",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 13
+     }
+    }
+   ]
+  },
+  {
+   "name": "Bicicleta fija",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Estándar"
+    }
+   ]
+  },
+  {
+   "name": "Cuello",
+   "group": "Otro",
+   "variants": [
+    {
+     "name": "Con arnés",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 14
+     }
+    },
+    {
+     "name": "Disco boca arriba",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 15
+     }
+    },
+    {
+     "name": "Disco boca abajo",
+     "img": {
+      "sheet": "img/s10.webp",
+      "cell": 16
+     }
+    }
+   ]
+  }
+ ]
+}

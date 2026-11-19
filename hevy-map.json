@@ -1,0 +1,310 @@
+{
+ "Abducción de Cadera (Máquina)": {
+  "exercise": "Abductores",
+  "variant": "Máquina"
+ },
+ "Abducción de Caderas": {
+  "exercise": "Abductores",
+  "variant": "Máquina"
+ },
+ "Aducción de Caderas": {
+  "exercise": "Aductores",
+  "variant": "Máquina"
+ },
+ "Aperturas (Mancuerna)": {
+  "exercise": "Aperturas",
+  "variant": "Mancuernas"
+ },
+ "Aperturas Inclinadas (Mancuerna)": {
+  "exercise": "Aperturas",
+  "variant": "Inclinado con mancuernas"
+ },
+ "Biceps Barra Romana": {
+  "exercise": "Curl de bíceps",
+  "variant": "Barra romana"
+ },
+ "Bicicleta": {
+  "exercise": "Bicicleta fija",
+  "variant": "Estándar"
+ },
+ "Curl Invertido (Cable)": {
+  "exercise": "Curl inverso",
+  "variant": "Polea"
+ },
+ "Curl Martillo (Cable)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Martillo en polea con soga"
+ },
+ "Curl Martillo (Mancuerna)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Martillo"
+ },
+ "Curl con Barra EZ": {
+  "exercise": "Curl de bíceps",
+  "variant": "Barra W"
+ },
+ "Curl con Cuerda (Cable)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Polea con soga"
+ },
+ "Curl de Bíceps (Barra)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Barra"
+ },
+ "Curl de Bíceps (Barra)||Barra W": {
+  "exercise": "Curl de bíceps",
+  "variant": "Barra W"
+ },
+ "Curl de Bíceps (Cable)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Polea"
+ },
+ "Curl de Bíceps Inclinado (Mancuerna)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Inclinado con mancuernas"
+ },
+ "Curl de Bíceps Inclinado (Mancuerna)||A un brazo": {
+  "exercise": "Curl de bíceps",
+  "variant": "Inclinado a un brazo"
+ },
+ "Curl de Bíceps Inclinado (Mancuerna)||Alternado": {
+  "exercise": "Curl de bíceps",
+  "variant": "Inclinado alternado"
+ },
+ "Curl de Martillo Cruzado": {
+  "exercise": "Curl de bíceps",
+  "variant": "Martillo cruzado"
+ },
+ "Curl de Piernas Acostado (Máquina)": {
+  "exercise": "Curl femoral",
+  "variant": "Acostado"
+ },
+ "Curl pinwheel (mancuerna)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Martillo cruzado"
+ },
+ "Curl predicador (barra)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Banco Scott"
+ },
+ "Curl predicador (mancuerna)": {
+  "exercise": "Curl de bíceps",
+  "variant": "Banco Scott con mancuerna"
+ },
+ "Curl predicador (mancuerna)||A un brazo martillo": {
+  "exercise": "Curl de bíceps",
+  "variant": "Martillo en banco Scott"
+ },
+ "Curls de Piernas de Pie": {
+  "exercise": "Curl femoral",
+  "variant": "De pie"
+ },
+ "Dominada": {
+  "exercise": "Dominadas",
+  "variant": "Agarre prono"
+ },
+ "Dominada Supina (Asistida)": {
+  "exercise": "Dominadas",
+  "variant": "Asistidas agarre supino"
+ },
+ "Dominadas Chin Up": {
+  "exercise": "Dominadas",
+  "variant": "Agarre supino"
+ },
+ "Dominadas Chin Up (Asistida)": {
+  "exercise": "Dominadas",
+  "variant": "Asistidas agarre supino"
+ },
+ "Elevacion Frontal (Mancuerna)": {
+  "exercise": "Vuelos frontales",
+  "variant": "Mancuernas"
+ },
+ "Elevación Frontal (Mancuerna)": {
+  "exercise": "Vuelos frontales",
+  "variant": "Mancuernas"
+ },
+ "Elevacion Laterales (Mancuerna)": {
+  "exercise": "Vuelos laterales",
+  "variant": "Mancuernas"
+ },
+ "Elevacion Laterales (Mancuerna)||A un brazo": {
+  "exercise": "Vuelos laterales",
+  "variant": "A un brazo con mancuerna"
+ },
+ "Elevación Lateral (Mancuerna)": {
+  "exercise": "Vuelos laterales",
+  "variant": "Mancuernas"
+ },
+ "Elevación Frontal con Disco": {
+  "exercise": "Vuelos frontales",
+  "variant": "Disco"
+ },
+ "Elevación de Gemelos Sentado": {
+  "exercise": "Gemelos",
+  "variant": "Sentado"
+ },
+ "Elevación de Gemelos de Pie (Máquina)": {
+  "exercise": "Gemelos",
+  "variant": "De pie"
+ },
+ "Empuje": {
+  "exercise": "Press Hammer (empuje de pecho)",
+  "variant": "Agarre lateral"
+ },
+ "Empuje Un Brazo": {
+  "exercise": "Press Hammer (empuje de pecho)",
+  "variant": "A un brazo"
+ },
+ "Extensión Con Disco": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Sobre la cabeza con disco"
+ },
+ "Extensión de Pierna": {
+  "exercise": "Extensión de cuádriceps",
+  "variant": "Máquina"
+ },
+ "Extensión de Tríceps (Mancuerna)": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Sobre la cabeza sentado con mancuerna"
+ },
+ "Extensión de Tríceps (Mancuerna)||Con disco, sentado": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Sobre la cabeza sentado con disco"
+ },
+ "Extensión de tríceps en polea": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Polea con barra"
+ },
+ "Jalón al Pecho (Cable)": {
+  "exercise": "Jalón al pecho",
+  "variant": "Agarre ancho"
+ },
+ "Jalón al Pecho - Agarre Cerrado (Cable)": {
+  "exercise": "Jalón al pecho",
+  "variant": "Agarre cerrado"
+ },
+ "Jalón de Tríceps en Polea": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Polea con barra"
+ },
+ "Jalón de tríceps con cuerda": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Polea con soga"
+ },
+ "Mariposa (Pec Deck)": {
+  "exercise": "Mariposa pec deck",
+  "variant": "Estándar"
+ },
+ "Máquina para Fondos Sentado": {
+  "exercise": "Fondos",
+  "variant": "Máquina"
+ },
+ "Patada de Tríceps (Mancuerna)": {
+  "exercise": "Patada de tríceps",
+  "variant": "Mancuerna"
+ },
+ "Press Francés (Mancuerna)": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Francés con mancuernas"
+ },
+ "Press Francés (Mancuerna)||A un brazo": {
+  "exercise": "Extensión de tríceps",
+  "variant": "Francés con mancuerna a un brazo"
+ },
+ "Press de Banca (Barra)": {
+  "exercise": "Press de banca",
+  "variant": "Barra"
+ },
+ "Press de Banca Inclinado (Barra)": {
+  "exercise": "Press de banca",
+  "variant": "Inclinado con barra"
+ },
+ "Press de Banca Inclinado (Mancuerna)": {
+  "exercise": "Press de banca",
+  "variant": "Inclinado con mancuernas"
+ },
+ "Press de Banca en Declive (Máquina)": {
+  "exercise": "Press Hammer (empuje de pecho)",
+  "variant": "Declinado"
+ },
+ "Press de Hombros (Mancuerna)": {
+  "exercise": "Press militar",
+  "variant": "Mancuernas"
+ },
+ "Press de Hombros (Máquina de Discos)": {
+  "exercise": "Press militar",
+  "variant": "Máquina de palanca"
+ },
+ "Press de Pecho Iso-Lateral (Máquina)": {
+  "exercise": "Press Hammer (empuje de pecho)",
+  "variant": "Sentado con placas"
+ },
+ "Press de Pecho Iso-Lateral (Máquina)||A un brazo menos de 90°": {
+  "exercise": "Press Hammer (empuje de pecho)",
+  "variant": "A un brazo"
+ },
+ "Press de Piernas": {
+  "exercise": "Prensa",
+  "variant": "45 grados"
+ },
+ "Remo Inclinado con Apoyo de Pecho (Mancuerna)": {
+  "exercise": "Remo",
+  "variant": "Mancuernas en banco inclinado"
+ },
+ "Remo Iso-Lateral": {
+  "exercise": "Remo",
+  "variant": "Máquina"
+ },
+ "Remo Iso-Lateral||Individual agarre bajo": {
+  "exercise": "Remo",
+  "variant": "Máquina agarre de abajo"
+ },
+ "Remo Iso-Lateral||A un brazo alternado y después doble": {
+  "exercise": "Remo",
+  "variant": "Máquina a un brazo"
+ },
+ "Remo Renegado": {
+  "exercise": "Remo",
+  "variant": "Renegado"
+ },
+ "Remo Sentado con Agarre en V (Cable)": {
+  "exercise": "Remo",
+  "variant": "Polea agarre cerrado (triángulo)"
+ },
+ "Remo Sentado con Cable": {
+  "exercise": "Remo",
+  "variant": "Polea baja"
+ },
+ "Remo Sentado con Cable - Agarre Abierto": {
+  "exercise": "Remo",
+  "variant": "Polea agarre ancho"
+ },
+ "Remo con Mancuerna": {
+  "exercise": "Remo",
+  "variant": "Mancuerna a un brazo"
+ },
+ "Sentadilla (Máquina)": {
+  "exercise": "Sentadilla",
+  "variant": "Smith"
+ },
+ "Sentadilla Hack (Máquina)": {
+  "exercise": "Sentadilla",
+  "variant": "Hack"
+ },
+ "Tirón a la Cara": {
+  "exercise": "Face pull",
+  "variant": "Soga"
+ },
+ "Vuelos Posteriores (Mancuerna)": {
+  "exercise": "Vuelos posteriores",
+  "variant": "Mancuernas"
+ },
+ "Zancada con Salto": {
+  "exercise": "Estocadas",
+  "variant": "Con salto"
+ },
+ "Zancadas Caminando": {
+  "exercise": "Estocadas",
+  "variant": "Caminando"
+ }
+}
